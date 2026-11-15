@@ -1,0 +1,8 @@
+{
+  "name": "SentinelOps — ITIL 4 Incident Triage",
+  "description": "Evidence-based ITIL 4 incident analysis, priority matrix evaluation, escalation decision support, and executive communications powered by historical operations knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
